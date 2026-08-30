@@ -16,8 +16,8 @@ I'm **Santanu Sahoo**, a Computer Science student passionate about
 **Machine Learning, Deep Learning, and Artificial Intelligence**.
 
 - 🎓 B.Tech Computer Science & Engineering
+- 🐍 Python Developer
 - 🧠 Focused on Machine Learning & Deep Learning
-- 🐍 Python enthusiast
 - 💻 C++ & Data Structures and Algorithms
 - 🤖 Building AI-powered applications
 - 📊 Interested in Data Science
