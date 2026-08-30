@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,50:115e59,100:0f766e&height=220&section=header&text=Santanu%20Sahoo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://github.com/YOUR-USERNAME.png" width="140" height="140" style="border-radius:50%;border:3px solid #2DD4BF;margin-top:-70px;"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Santanu%20Sahoo&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+production-ready+AI+systems;B.Tech+Computer+Science+%26+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+production-ready+AI+systems;B.Tech+Computer+Science+%26+Engineering" alt="Typing SVG" />
 
 <br/><br/>
 
 <svg width="26" height="26" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M6 9l6 6 6-6" stroke="#2DD4BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/>
+  <path d="M6 9l6 6 6-6" stroke="#F4A340" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 4; 0 0" dur="1.6s" repeatCount="indefinite"/>
   </path>
 </svg>
 
@@ -38,7 +36,7 @@ I'm **Santanu Sahoo**, a Computer Science undergraduate specializing in **Machin
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,100:134e4a&height=2&width=100%&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3460,100:1a1a2e&height=2&width=100%&animation=fadeIn"/>
 
 <br/>
 
@@ -92,38 +90,38 @@ I'm **Santanu Sahoo**, a Computer Science undergraduate specializing in **Machin
 <div align="center">
 
 <svg width="620" height="230" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
-  <text x="0" y="16" fill="#d1e7e2" font-size="13">Python</text>
-  <text x="600" y="16" fill="#d1e7e2" font-size="13" text-anchor="end">85%</text>
-  <rect x="0" y="22" width="600" height="10" rx="5" fill="#1e3a37"/>
-  <rect x="0" y="22" width="510" height="10" rx="5" fill="#2DD4BF">
+  <text x="0" y="16" fill="#e7dfd4" font-size="13">Python</text>
+  <text x="600" y="16" fill="#e7dfd4" font-size="13" text-anchor="end">85%</text>
+  <rect x="0" y="22" width="600" height="10" rx="5" fill="#22223b"/>
+  <rect x="0" y="22" width="510" height="10" rx="5" fill="#F4A340">
     <animate attributeName="width" from="0" to="510" dur="1.4s" fill="freeze"/>
   </rect>
 
-  <text x="0" y="60" fill="#d1e7e2" font-size="13">Machine Learning</text>
-  <text x="600" y="60" fill="#d1e7e2" font-size="13" text-anchor="end">75%</text>
-  <rect x="0" y="66" width="600" height="10" rx="5" fill="#1e3a37"/>
-  <rect x="0" y="66" width="450" height="10" rx="5" fill="#2DD4BF">
+  <text x="0" y="60" fill="#e7dfd4" font-size="13">Machine Learning</text>
+  <text x="600" y="60" fill="#e7dfd4" font-size="13" text-anchor="end">75%</text>
+  <rect x="0" y="66" width="600" height="10" rx="5" fill="#22223b"/>
+  <rect x="0" y="66" width="450" height="10" rx="5" fill="#F4A340">
     <animate attributeName="width" from="0" to="450" dur="1.4s" begin="0.15s" fill="freeze"/>
   </rect>
 
-  <text x="0" y="104" fill="#d1e7e2" font-size="13">Deep Learning</text>
-  <text x="600" y="104" fill="#d1e7e2" font-size="13" text-anchor="end">65%</text>
-  <rect x="0" y="110" width="600" height="10" rx="5" fill="#1e3a37"/>
-  <rect x="0" y="110" width="390" height="10" rx="5" fill="#2DD4BF">
+  <text x="0" y="104" fill="#e7dfd4" font-size="13">Deep Learning</text>
+  <text x="600" y="104" fill="#e7dfd4" font-size="13" text-anchor="end">65%</text>
+  <rect x="0" y="110" width="600" height="10" rx="5" fill="#22223b"/>
+  <rect x="0" y="110" width="390" height="10" rx="5" fill="#F4A340">
     <animate attributeName="width" from="0" to="390" dur="1.4s" begin="0.3s" fill="freeze"/>
   </rect>
 
-  <text x="0" y="148" fill="#d1e7e2" font-size="13">Computer Vision</text>
-  <text x="600" y="148" fill="#d1e7e2" font-size="13" text-anchor="end">60%</text>
-  <rect x="0" y="154" width="600" height="10" rx="5" fill="#1e3a37"/>
-  <rect x="0" y="154" width="360" height="10" rx="5" fill="#2DD4BF">
+  <text x="0" y="148" fill="#e7dfd4" font-size="13">Computer Vision</text>
+  <text x="600" y="148" fill="#e7dfd4" font-size="13" text-anchor="end">60%</text>
+  <rect x="0" y="154" width="600" height="10" rx="5" fill="#22223b"/>
+  <rect x="0" y="154" width="360" height="10" rx="5" fill="#F4A340">
     <animate attributeName="width" from="0" to="360" dur="1.4s" begin="0.45s" fill="freeze"/>
   </rect>
 
-  <text x="0" y="192" fill="#d1e7e2" font-size="13">Backend Development</text>
-  <text x="600" y="192" fill="#d1e7e2" font-size="13" text-anchor="end">50%</text>
-  <rect x="0" y="198" width="600" height="10" rx="5" fill="#1e3a37"/>
-  <rect x="0" y="198" width="300" height="10" rx="5" fill="#2DD4BF">
+  <text x="0" y="192" fill="#e7dfd4" font-size="13">Backend Development</text>
+  <text x="600" y="192" fill="#e7dfd4" font-size="13" text-anchor="end">50%</text>
+  <rect x="0" y="198" width="600" height="10" rx="5" fill="#22223b"/>
+  <rect x="0" y="198" width="300" height="10" rx="5" fill="#F4A340">
     <animate attributeName="width" from="0" to="300" dur="1.4s" begin="0.6s" fill="freeze"/>
   </rect>
 </svg>
@@ -132,7 +130,7 @@ I'm **Santanu Sahoo**, a Computer Science undergraduate specializing in **Machin
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,100:134e4a&height=2&width=100%&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3460,100:1a1a2e&height=2&width=100%&animation=fadeIn"/>
 
 <br/>
 
@@ -150,7 +148,7 @@ An AI-based attendance system using real-time face detection and recognition.
 
 `MTCNN` · `FaceNet`
 
-<a href="#"><img src="https://img.shields.io/badge/View%20Repository-115e59?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/View%20Repository-16213e?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -163,7 +161,7 @@ A machine learning pipeline that predicts customer churn from behavioral data.
 
 `EDA` · `Feature Engineering` · `Model Tuning`
 
-<a href="#"><img src="https://img.shields.io/badge/View%20Repository-115e59?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/View%20Repository-16213e?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -176,7 +174,7 @@ A machine learning pipeline that predicts customer churn from behavioral data.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,100:134e4a&height=2&width=100%&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3460,100:1a1a2e&height=2&width=100%&animation=fadeIn"/>
 
 <br/>
 
@@ -184,17 +182,17 @@ A machine learning pipeline that predicts customer churn from behavioral data.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=2DD4BF&center=true&vCenter=true&width=560&lines=Natural+Language+Processing;Transformer+Architectures;Generative+AI;AI+Agents;Advanced+FastAPI+%2F+AI+Engineering" alt="Currently learning ticker"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=F4A340&center=true&vCenter=true&width=560&lines=Natural+Language+Processing;Transformer+Architectures;Generative+AI;AI+Agents;Advanced+FastAPI+%2F+AI+Engineering" alt="Currently learning ticker"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Advanced%20ML-115e59?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-115e59?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-115e59?style=flat-square"/>
-<img src="https://img.shields.io/badge/Transformers-115e59?style=flat-square"/>
-<img src="https://img.shields.io/badge/Generative%20AI-115e59?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-115e59?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%20Engineering-115e59?style=flat-square"/>
+<img src="https://img.shields.io/badge/Advanced%20ML-16213e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-16213e?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-16213e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transformers-16213e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-16213e?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-16213e?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Engineering-16213e?style=flat-square"/>
 
 </div>
 
@@ -212,6 +210,6 @@ A machine learning pipeline that predicts customer churn from behavioral data.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:115e59,100:134e4a&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f3460,50:16213e,100:1a1a2e&height=140&section=footer&animation=twinkling" width="100%"/>
 
 </div>
