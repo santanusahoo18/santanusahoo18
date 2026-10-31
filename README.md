@@ -1,215 +1,201 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Santanu%20Sahoo&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=SANTANU%20SAHOO&fontSize=62&fontColor=F4A340&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Applied%20AI&descSize=18&descColor=E7DFD4&descAlignY=62" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=F4A340&center=true&vCenter=true&width=720&height=50&lines=Teaching+machines+to+see+and+reason+%F0%9F%91%81%EF%B8%8F;Building+production-ready+AI+systems+%E2%9A%99%EF%B8%8F;Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+NLP+%F0%9F%A7%A0;From+notebooks+to+deployed+APIs+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/B.Tech-CSE-F4A340?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Focus-Machine%20Learning-302b63?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Python-Primary-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=for-the-badge&labelColor=0f0c29"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+production-ready+AI+systems;B.Tech+Computer+Science+%26+Engineering" alt="Typing SVG" />
-
-<br/><br/>
-
-<svg width="26" height="26" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M6 9l6 6 6-6" stroke="#F4A340" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 4; 0 0" dur="1.6s" repeatCount="indefinite"/>
-  </path>
-</svg>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=F4A340&style=for-the-badge&labelColor=0f0c29" />
 
 </div>
 
 <br/>
 
-## Profile
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F4A340,50:302b63,100:0f0c29&height=3&section=header"/>
 
-I'm **Santanu Sahoo**, a Computer Science undergraduate specializing in **Machine Learning, Deep Learning, and Applied AI**. I focus on building practical, production-oriented systems — from computer vision pipelines to predictive models — and I'm continually deepening my expertise across the modern AI stack.
+## ⚡ About Me
+
+```python
+class SantanuSahoo:
+    role       = "Machine Learning Engineer (in the making)"
+    education  = "B.Tech, Computer Science & Engineering"
+    stack      = ["Python", "PyTorch", "TensorFlow", "OpenCV", "FastAPI"]
+    exploring  = ["NLP", "Transformers", "Generative AI", "AI Agents"]
+    philosophy = "Ship models that work in the real world, not just in notebooks."
+
+    def current_goal(self):
+        return "Build real-world, production-grade AI applications."
+```
+
+<br/>
+
+## 🧰 Tech Arsenal
 
 <div align="center">
 
-| | |
-|---|---|
-| 🎓 **Education** | B.Tech, Computer Science & Engineering |
-| 🧠 **Specialization** | Machine Learning · Deep Learning · Computer Vision |
-| 🐍 **Primary Language** | Python |
-| 🚀 **Currently Exploring** | NLP · Transformers · Generative AI · AI Agents |
-| 🎯 **Objective** | Building real-world, production-grade AI applications |
+<table>
+<tr>
+<td align="center" width="200"><b>🗣️ Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,postgres&theme=dark"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>📊 ML & Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧠 Deep Learning & Vision</b></td>
+<td>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🛠️ Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🔧 Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3460,100:1a1a2e&height=2&width=100%&animation=fadeIn"/>
-
-<br/>
-
-## Technical Skills
+## 📈 Proficiency
 
 <div align="center">
 
-**Languages**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,postgres&theme=dark" />
-
-<br/><br/>
-
-**Machine Learning & Data Science**
-<br/><br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-
-<br/><br/>
-
-**Deep Learning & Computer Vision**
-<br/><br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white"/>
-
-<br/><br/>
-
-**Backend & Databases**
-<br/><br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-
-<br/><br/>
-
-**Tools & Platforms**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
+| Skill | Level |
+|:--|:--|
+| **Python** | ![](https://geps.dev/progress/85?dangerouslySetInnerHTML=%7B%22__html%22%3A%22%22%7D) |
+| **Machine Learning** | ![](https://geps.dev/progress/75) |
+| **Deep Learning** | ![](https://geps.dev/progress/65) |
+| **Computer Vision** | ![](https://geps.dev/progress/60) |
+| **Backend Development** | ![](https://geps.dev/progress/50) |
 
 </div>
 
 <br/>
 
-## Proficiency
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F4A340,50:302b63,100:0f0c29&height=3&section=header"/>
 
-<div align="center">
-
-<svg width="620" height="230" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
-  <text x="0" y="16" fill="#e7dfd4" font-size="13">Python</text>
-  <text x="600" y="16" fill="#e7dfd4" font-size="13" text-anchor="end">85%</text>
-  <rect x="0" y="22" width="600" height="10" rx="5" fill="#22223b"/>
-  <rect x="0" y="22" width="510" height="10" rx="5" fill="#F4A340">
-    <animate attributeName="width" from="0" to="510" dur="1.4s" fill="freeze"/>
-  </rect>
-
-  <text x="0" y="60" fill="#e7dfd4" font-size="13">Machine Learning</text>
-  <text x="600" y="60" fill="#e7dfd4" font-size="13" text-anchor="end">75%</text>
-  <rect x="0" y="66" width="600" height="10" rx="5" fill="#22223b"/>
-  <rect x="0" y="66" width="450" height="10" rx="5" fill="#F4A340">
-    <animate attributeName="width" from="0" to="450" dur="1.4s" begin="0.15s" fill="freeze"/>
-  </rect>
-
-  <text x="0" y="104" fill="#e7dfd4" font-size="13">Deep Learning</text>
-  <text x="600" y="104" fill="#e7dfd4" font-size="13" text-anchor="end">65%</text>
-  <rect x="0" y="110" width="600" height="10" rx="5" fill="#22223b"/>
-  <rect x="0" y="110" width="390" height="10" rx="5" fill="#F4A340">
-    <animate attributeName="width" from="0" to="390" dur="1.4s" begin="0.3s" fill="freeze"/>
-  </rect>
-
-  <text x="0" y="148" fill="#e7dfd4" font-size="13">Computer Vision</text>
-  <text x="600" y="148" fill="#e7dfd4" font-size="13" text-anchor="end">60%</text>
-  <rect x="0" y="154" width="600" height="10" rx="5" fill="#22223b"/>
-  <rect x="0" y="154" width="360" height="10" rx="5" fill="#F4A340">
-    <animate attributeName="width" from="0" to="360" dur="1.4s" begin="0.45s" fill="freeze"/>
-  </rect>
-
-  <text x="0" y="192" fill="#e7dfd4" font-size="13">Backend Development</text>
-  <text x="600" y="192" fill="#e7dfd4" font-size="13" text-anchor="end">50%</text>
-  <rect x="0" y="198" width="600" height="10" rx="5" fill="#22223b"/>
-  <rect x="0" y="198" width="300" height="10" rx="5" fill="#F4A340">
-    <animate attributeName="width" from="0" to="300" dur="1.4s" begin="0.6s" fill="freeze"/>
-  </rect>
-</svg>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3460,100:1a1a2e&height=2&width=100%&animation=fadeIn"/>
-
-<br/>
-
-## Featured Projects
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3>AI Attendance System</h3>
+### 🎯 AI Attendance System
+Real-time face detection and recognition that marks attendance automatically — no cards, no queues.
 
-An AI-based attendance system using real-time face detection and recognition.
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+`MTCNN` · `FaceNet` · `Real-Time Inference`
 
-`MTCNN` · `FaceNet`
-
-<a href="#"><img src="https://img.shields.io/badge/View%20Repository-16213e?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/View%20Repository-F4A340?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>Customer Churn Prediction</h3>
+### 📉 Customer Churn Prediction
+End-to-end ML pipeline that predicts which customers are likely to leave, from behavioral data.
 
-A machine learning pipeline that predicts customer churn from behavioral data.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
 `EDA` · `Feature Engineering` · `Model Tuning`
 
-<a href="#"><img src="https://img.shields.io/badge/View%20Repository-16213e?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/View%20Repository-F4A340?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 </td>
 </tr>
 </table>
 
-<!--
-  Add more project cards here as you build them, following the same
-  table row format above. Replace the "#" links with your repo URLs.
--->
+<!-- Add more project cards by copying a <td> block. Replace "#" with your repo URL. -->
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3460,100:1a1a2e&height=2&width=100%&animation=fadeIn"/>
+## 🗺️ Learning Roadmap
 
-<br/>
-
-## Currently Learning
+```mermaid
+flowchart LR
+    A[Python & Data Science] --> B[Machine Learning]
+    B --> C[Deep Learning]
+    C --> D[Computer Vision]
+    C --> E[NLP & Transformers]
+    E --> F[Generative AI]
+    F --> G[AI Agents]
+    D --> H((Production AI))
+    G --> H
+    style H fill:#F4A340,stroke:#0f0c29,color:#0f0c29
+```
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=F4A340&center=true&vCenter=true&width=560&lines=Natural+Language+Processing;Transformer+Architectures;Generative+AI;AI+Agents;Advanced+FastAPI+%2F+AI+Engineering" alt="Currently learning ticker"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Advanced%20ML-16213e?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-16213e?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-16213e?style=flat-square"/>
-<img src="https://img.shields.io/badge/Transformers-16213e?style=flat-square"/>
-<img src="https://img.shields.io/badge/Generative%20AI-16213e?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-16213e?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%20Engineering-16213e?style=flat-square"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=800&color=F4A340&center=true&vCenter=true&width=560&lines=Currently+learning%3A+Transformers;Currently+learning%3A+Generative+AI;Currently+learning%3A+AI+Agents;Currently+learning%3A+Advanced+FastAPI" alt="Currently learning"/>
 
 </div>
 
 <br/>
 
-## Goal
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F4A340,50:302b63,100:0f0c29&height=3&section=header"/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-> Become a strong Machine Learning Engineer and build real-world, production-grade AI applications.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=F4A340&icon_color=F4A340&text_color=E7DFD4"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=F4A340&text_color=E7DFD4"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29&ring=F4A340&fire=F4A340&currStreakLabel=F4A340"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0f0c29&color=F4A340&line=F4A340&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 <br/>
 
+## 🎯 Goal
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f3460,50:16213e,100:1a1a2e&height=140&section=footer&animation=twinkling" width="100%"/>
+> *"Become a strong Machine Learning Engineer and build real-world, production-grade AI applications."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling" width="100%"/>
 
 </div>
