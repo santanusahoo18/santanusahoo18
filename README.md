@@ -39,14 +39,18 @@ Computer Science undergraduate (B.Tech, CSE) specializing in machine learning, d
 
 | Area | Tools |
 |:--|:--|
-| **Languages** | Python, C++, Java, SQL |
-| **Machine Learning** | NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn |
-| **Deep Learning & Vision** | PyTorch, TensorFlow, Keras, OpenCV |
-| **Backend & Data** | FastAPI, Flask, PostgreSQL |
-| **Tooling** | Git, GitHub, Jupyter, VS Code |
+| **Languages** | Python, SQL, C++, Java, Bash |
+| **Data Analysis** | NumPy, Pandas, SciPy, Matplotlib, Seaborn, Plotly, Exploratory Data Analysis |
+| **Machine Learning** | Scikit-Learn, XGBoost, LightGBM, Regression, Classification, Clustering, Feature Engineering, Cross-Validation, Hyperparameter Tuning, Model Evaluation |
+| **Deep Learning** | PyTorch, TensorFlow, Keras, CNNs, RNNs / LSTMs, Transfer Learning |
+| **Computer Vision** | OpenCV, MTCNN, FaceNet, Image Classification, Object Detection, Face Recognition |
+| **NLP & Generative AI** | Text Preprocessing, Transformers, Hugging Face, LLM APIs, Prompt Engineering, RAG *(learning)* |
+| **Deployment & MLOps** | FastAPI, Flask, REST APIs, Docker, Model Serving, MLflow *(learning)* |
+| **Databases** | PostgreSQL, SQL Query Design |
+| **Tooling** | Git, GitHub, Linux, Jupyter, VS Code |
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,postgres,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,bash,pytorch,tensorflow,opencv,fastapi,flask,docker,postgres,linux,git,github,vscode&theme=dark"/>
 </p>
 
 ---
@@ -85,15 +89,6 @@ End-to-end machine learning pipeline that predicts customer churn from behaviora
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-0f172a?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-0f172a?style=flat-square)
 ![Advanced FastAPI](https://img.shields.io/badge/Advanced%20FastAPI-0f172a?style=flat-square)
-
----
-
-## GitHub Activity
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0f172a&title_color=e2e8f0&icon_color=94a3b8&text_color=cbd5e1"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0f172a&title_color=e2e8f0&text_color=cbd5e1"/>
-</p>
 
 ---
 
