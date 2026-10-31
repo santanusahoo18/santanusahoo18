@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=160&section=header&text=Santanu%20Sahoo&fontSize=44&fontColor=f8fafc&fontAlignY=45&desc=Machine%20Learning%20Engineer&descSize=18&descColor=94a3b8&descAlignY=68" width="100%"/>
 
-<p>
-Computer Vision &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Applied AI
-</p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Computer+Vision+%C2%B7+Deep+Learning+%C2%B7+Applied+AI;Building+production-ready+AI+systems;B.Tech+Computer+Science+%26+Engineering" alt="Typing SVG"/>
+</a>
 
 <p>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=white"/></a>
